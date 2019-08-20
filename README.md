@@ -2,9 +2,9 @@ Project Update - As at Tuesday 20 Aug 2019
 =================
 * The purpose of this project is to practice writing JavaScript
 * We are recycling the "Airport Challenge", which was originally a Ruby task (Week 1 Weekend Challenge)
-* Currently working on implementing the 1st user story
+* So far, implemented the 1st user story
 
-First User Story
+1st User Story
 -----
 `As an air traffic controller `
 `So I can get passengers to a destination `
