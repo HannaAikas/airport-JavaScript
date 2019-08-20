@@ -8,7 +8,8 @@ First User Story
 -----
 `As an air traffic controller `
 `So I can get passengers to a destination `
-`I want to instruct a plane to land at an airport`
+`I want to instruct a plane to land at
+  an airport and confirm that it has landed`
 
 ORIGINAL INSTRUCTIONS FROM MAKERS (FOR RUBY VERSION OF AIRPLANE)
 =================
