@@ -1,1 +1,7 @@
-// This is where I'll write my code for Plane
+'use strict';
+
+function Plane(){}
+
+Plane.prototype.land = function(airport) {
+  airport.clearForLanding(this);
+};
